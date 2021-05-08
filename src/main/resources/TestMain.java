@@ -1,4 +1,4 @@
 
 public class TestMain {
-String color="RED";
+String color="Blue";
 }
